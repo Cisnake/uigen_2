@@ -151,6 +151,8 @@ Authentication is implemented using JWT with the `jose` library:
 - Middleware (`src/middleware.ts`) protects project routes
 - Anonymous users can work without auth, with localStorage tracking
 - `src/lib/auth.ts` provides `getSession()` and token management
+- gdgdgdgd
+- dhdhdghdghd
 
 ## Testing
 
